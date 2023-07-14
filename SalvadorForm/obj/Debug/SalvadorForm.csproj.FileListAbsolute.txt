@@ -1,0 +1,11 @@
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\bin\Debug\SalvadorForm.exe.config
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\bin\Debug\SalvadorForm.exe
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\bin\Debug\SalvadorForm.pdb
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.csproj.AssemblyReference.cache
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.Form1.resources
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.Properties.Resources.resources
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.csproj.GenerateResource.cache
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.csproj.CoreCompileInputs.cache
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.exe
+C:\Users\tarda\Desktop\SalvadorForm\SalvadorForm\obj\Debug\SalvadorForm.pdb
